@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<clientes>
+  <cliente>
+    <id>4c63cee1-7f63-4955-8bca-cca1807ed80e</id>
+    <Nome>teste</Nome>
+    <Email>teste</Email>
+    <Telefone>teste</Telefone>
+    <Observacao>teste</Observacao>
+    <Massoterapeuta>teste</Massoterapeuta>
+    <Avaliacao>teste</Avaliacao>
+    <Data_Atualizacao>25/04/2020 11:37:15</Data_Atualizacao>
+  </cliente>
+</clientes>
